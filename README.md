@@ -24,4 +24,7 @@ Components have been sorted into collections dependent on their most relatable t
 
 ### How to Contribute
 
+### Future Application Growth
+[Potential Schema](https://lucid.app/lucidchart/708f4689-835d-42bc-ad09-90c41dd06f88/edit?invitationId=inv_4d9893f3-e88a-4d13-a4df-389217481e77)
+
 ### Acknowledgment
