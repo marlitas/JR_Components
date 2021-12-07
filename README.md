@@ -10,17 +10,20 @@ Components have been sorted into collections dependent on their most relatable t
 ### Tools Used
 
 ### Collections
-- Authentication
-- Buttons
-- Carousels
-- Charts
-- CMS
-- Footers
-- Forms
-- Galleries
-- Graphs
-- Navigation
-- Twilio Expanded Documentation
+- [Accordians]()
+- [Authentication](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Authentication/authentication.md)
+- [Buttons]()
+- [Charts](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Charts/charts.md)
+- [CMS](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/CMS/cms.md)
+- [Data Integration]()
+- [Footers](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Footers/footers.md)
+- [Forms](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Forms/forms.md)
+- [Galleries]()
+- [Modals]()
+- [Navigation](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Navigation/navigation.md)
+- [Sliders]()
+- [Tabs]()
+- [Twilio Expanded Documentation](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Twilio-Expanded-Documentation/twilio-expanded-docs.md)
 
 ### How to Contribute
 
