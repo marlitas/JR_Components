@@ -10,19 +10,19 @@ Components have been sorted into collections dependent on their most relatable t
 ### Tools Used
 
 ### Collections
-- [Accordians]()
+- [Accordians](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Accordians/accordians.md)
 - [Authentication](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Authentication/authentication.md)
-- [Buttons]()
+- [Buttons](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Buttons/buttons.md)
 - [Charts](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Charts/charts.md)
 - [CMS](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/CMS/cms.md)
-- [Data Integration]()
+- [Data Integration](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Data-Integration/data_integration.md)
 - [Footers](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Footers/footers.md)
 - [Forms](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Forms/forms.md)
-- [Galleries]()
-- [Modals]()
+- [Galleries](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Galleries/galleries.md)
+- [Modals](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Modals/modals.md)
 - [Navigation](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Navigation/navigation.md)
-- [Sliders]()
-- [Tabs]()
+- [Sliders](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Sliders/sliders.md)
+- [Tabs](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Tabs/tabs.md)
 - [Twilio Expanded Documentation](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Twilio-Expanded-Documentation/twilio-expanded-docs.md)
 
 ### How to Contribute
