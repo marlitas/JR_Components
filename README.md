@@ -26,8 +26,16 @@ Components have been sorted into collections dependent on their most relatable t
 - [Twilio Expanded Documentation](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Twilio-Expanded-Documentation/twilio-expanded-docs.md)
 
 ### How to Contribute
+The relevance of this library is only kept by up-to-date contributions by the Justice Reskill team. Have a component you recently built for a project? Looking to learn about a new technology or feature? Contributing to the Component Library is a great way to develop skills and ensure consistency across JR projects, saving us all time and effort in the long run. It's also a great way to learn from each other and find common ground to enhance team collaboration. 
+
+Read through the [contribution guide](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/contributing.md) for code expectations, FAQs, and other requirements. 
+
+Looking for some inspiration? Check out our [open issues](https://github.com/Justice-Reskill/JR-Component-Library/issues) to find the JR wish-list. 
 
 ### Future Application Growth
+Mock-Up of future web application:
+![Wireframe Component Library](https://user-images.githubusercontent.com/42476338/145107713-59cb42bb-3965-423f-91c2-8c2ca170da5a.jpg)
+
 [Potential Schema](https://lucid.app/lucidchart/708f4689-835d-42bc-ad09-90c41dd06f88/edit?invitationId=inv_4d9893f3-e88a-4d13-a4df-389217481e77)
 
 ### Acknowledgment
