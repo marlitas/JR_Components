@@ -28,7 +28,7 @@ Components have been sorted into collections dependent on their most relatable t
 ### How to Contribute
 The relevance of this library is only kept by up-to-date contributions by the Justice Reskill team. Have a component you recently built for a project? Looking to learn about a new technology or feature? Contributing to the Component Library is a great way to develop skills and ensure consistency across JR projects, saving us all time and effort in the long run. It's also a great way to learn from each other and find common ground to enhance team collaboration. 
 
-Read through the [contribution guide](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/contributing.md) for code expectations, FAQs, and other requirements. 
+Read through the [contribution guide](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/CONTRIBUTING.md) for code expectations, FAQs, and other requirements. 
 
 Looking for some inspiration? Check out our [open issues](https://github.com/Justice-Reskill/JR-Component-Library/issues) to find the JR wish-list. 
 
