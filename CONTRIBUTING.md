@@ -1,168 +1,94 @@
-# Introduction
+<h1 align='center'> Contributing to the Library </h1>
 
->First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+<h4 align='center'> So you're thinking about contributing? Welcome! </h5>
 
-[source: [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)] **Need more inspiration?** [1] [Read The Docs](http://read-the-docs.readthedocs.org/en/latest/contribute.html) [2] [Mustache.js](https://github.com/janl/mustache.js/#contributing)
+We're so excited that you're here and reading through this carefully prepared document. It helps us (and you) make sure that our component library stays accurate, diverse, and bug-free! 
 
-Following the contribution guidelines helps to communicate that you respect the time of the developers managing and developing this library. In return, we promise to reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
+The contribution guidelines here help to ensure respect between the developers managing this library and those contributing. In the end this allows for a smoother process as the managing developers address your issues, assess changes, and help you finalize your pull requests. 
+
+We thank you in advance for reading through and following these guidelines!
 
 ### Types of Contributions
 
-The Justice Reskill Component Library is a digital space where our JR community, whether student or employee, can come together and bond through code. The library is only as robust as we make it, so we depend on everyone to keep this library stocked and up to date. That's where you come in! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code to submit your very own component to the library.
+The Justice Reskill Component Library is a digital space where our community, whether student or employee, can come together and bond through code. The library is only as robust as we make it, so we depend on everyone to keep this library stocked and up-to-date. That's where you come in! There are many ways to contribute, from improving the documentation, submitting bug reports and feature requests or writing code to submit your very own component to the library.
 
 ### Please Don't
 
-Please don't submit a fully functional application here. Submitted components should be easy to read through and throw into an existing code base. A majority of components will only require one file to implement. A component should pass testing standards, but may not be production ready. The library is here to provide a platform for developers who want to take your code into production for their specific use case. Therefore it needs to be easy to customize and understand.
+Please don't submit a fully functional application here. Submitted components should be easy to read through and throw into an existing code base. A majority of components will only require one file to implement, so think small. A component should pass testing standards, but may not be production ready. The library is here to provide a platform for developers who want to take your code into production for their specific use case, therefore it needs to be easy to customize and understand.
 
-We also request that you not submit support questions as an issue. For any support needs visit the appropriate Slack channel in the Justice Reskill workspace.
+We also request that you not submit support questions as an issue. For any support needs, visit the appropriate Slack channel in the Justice Reskill workspace.
 
 # Ground Rules
-### Set expectations for behavior (yours, and theirs).
-This includes not just how to communicate with others (being respectful, considerate, etc) but also technical responsibilities (importance of testing, project dependencies, etc). Mention and link to your code of conduct, if you have one.
+### Culture
+We aim to keep a welcoming and open environment for all those who want to be part of the Justice Reskill Component Library. The following lists out just some of the ways we can do that through our interactions. This is by no means a comprehensive list, and we encourage everyone to listen and adapt. 
 
-Responsibilities
-- Ensure cross-platform compatibility for every change that's accepted. Windows, Mac, Debian & Ubuntu Linux.
-- Ensure that code that goes into core meets all requirements in this checklist: https://gist.github.com/audreyr/4feef90445b9680475f2
+- Use welcoming and inclusive language
+- Be respectful of differeing viewpoints and opinions
+- Gracefully accept constructive criticism
+- Focus on what is best for the Justice Reskill community
+- Show empathy towards others.
+
+### Tech Responsibilites
+- To the best of your ability ensure [cross-browser compatibility](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction) for all components submitted. Chrome, Firefox, Safari, Internet Explorer, etc..
+- Ensure that code meets all requirements on this checklist: https://gist.github.com/audreyr/4feef90445b9680475f2
 - Create issues for any major changes and enhancements that you wish to make. Discuss things transparently and get community feedback.
 - Don't add any collections to the library unless absolutely necessary. If you would like to add a collection please submit an issue outlining the reason and need.
 - Keep pull requests as small as possible. Preferably one component per pull request.
-- Be welcoming to newcomers and encourage diverse new contributors from all backgrounds. See the [Python Community Code of Conduct](https://www.python.org/psf/codeofconduct/).
-
-[source: [cookiecutter](https://github.com/audreyr/cookiecutter/blob/master/CONTRIBUTING.rst)] **Need more inspiration?** [1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#community-code-of-conduct) [2] [geocoder](https://github.com/alexreisner/geocoder#contributing)
+- Be welcoming to newcomers and encourage diverse new contributors from all backgrounds.
 
 # Your First Contribution
-Help people who are new to your project understand where they can be most helpful. This is also a good time to let people know if you follow a label convention for flagging beginner issues.
+The Component Library is a great place to try out your first contribution. There are loads of ways to add to the library, and the following info will help you navigate those options.
 
 Unsure where to begin contributing? You can start by looking through these beginner and help-wanted issues:
-- Beginner issues - issues which should only require a few lines of code, and a test or two.
-- Help wanted issues - issues which should be a bit more involved than beginner issues.
+### Beginner issues - issues which should only require a few lines of code, and a test or two.
+   Beginner issues can involve fixing a bug in a component, creating a small component, or adding in documentation. If you get stuck anywhere, comment on the issues and someone should hopefully be able to help out. 
+   
+### Help wanted issues - issues which should be a bit more involved than beginner issues. 
+   Help wanted issues can be a bit more complex than beginner issues, but they allow you to pair with the other developer who is working on this issue. Don't worry you won't be taking the lead here, but these issues can be a good transition point to work on something bigger by yourself. 
 
-[source: [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#your-first-code-contribution)] **Need more inspiration?** [1] [Read the Docs](http://docs.readthedocs.org/en/latest/contribute.html#contributing-to-development) [2] [Django](https://docs.djangoproject.com/en/dev/internals/contributing/new-contributors/#first-steps) (scroll down to "Guidelines" as well)
-
-### Bonus points: Add a link to a resource for people who have never contributed to open source before.
-Here are a couple of friendly tutorials you can include: http://makeapullrequest.com/ and http://www.firsttimersonly.com/
-
-> Working on your first Pull Request? You can learn how from this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
-
-[source: [React](https://github.com/facebook/react/blob/master/CONTRIBUTING.md#pull-requests)]  
-
-As a side note, it helps to use newcomer-friendly language throughout the rest of your document. Here are a couple of examples from [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md):
-
->At this point, you're ready to make your changes! Feel free to ask for help; everyone is a beginner at first :smile_cat:
->
->If a maintainer asks you to "rebase" your PR, they're saying that a lot of code has changed, and that you need to update your branch so it's easier to merge.
+If you're still concerned about contributing, here are a couple of resources to help:
+- [Making a pull request](http://makeapullrequest.com/)
+- [Github Tutorial](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 # Getting started
-### Give them a quick walkthrough of how to submit a contribution.
-How you write this is up to you, but some things you may want to include:
 
-* Let them know if they need to sign a CLA, agree to a DCO, or get any other legal stuff out of the way
-* If tests are required for contributions, let them know, and explain how to run the tests
-* If you use anything other than GitHub to manage issues (ex. JIRA or Trac), let them know which tools they’ll need to contribute
+* Legal info? Maybe something about how this is a Library for Justice Reskill community ONLY? You have to be a student or an employee? 
 
->For something that is bigger than a one or two line fix:
+### Testing Requirements
+Code must pass some sort of testing. Testing will vary from component to component... maybe using some sort of test coverage package and showing passing tests along with that coverage package.
 
->1. Create your own fork of the code
->2. Do the changes in your fork
->3. If you like the change and think the project could use it:
-    * Be sure you have followed the code style for the project.
-    * Sign the Contributor License Agreement, CLA, with the jQuery Foundation.
-    * Note the jQuery Foundation Code of Conduct.
-    * Send a pull request indicating that you have a CLA on file.
-
-[source: [Requirejs](http://requirejs.org/docs/contributing.html)] **Need more inspiration?** [1] [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md#1-where-do-i-go-from-here) [2] [Node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions) [3] [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md#pull-requests)
-
-### If you have a different process for small or "obvious" fixes, let them know.
-
-> Small contributions such as fixing spelling errors, where the content is small enough to not be considered intellectual property, can be submitted by a contributor as a patch, without a CLA.
->
->As a rule of thumb, changes are obvious fixes if they do not introduce any new functionality or creative thinking. As long as the change does not affect functionality, some likely examples include the following:
->* Spelling / grammar fixes
->* Typo correction, white space and formatting changes
->* Comment clean up
->* Bug fixes that change default return values or error codes stored in constants
->* Adding logging messages or debugging output
->* Changes to ‘metadata’ files like Gemfile, .gitignore, build scripts, etc.
->* Moving source files from one directory or package to another
-
-[source: [Chef](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#chef-obvious-fix-policy)] **Need more inspiration?** [1] [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md#making-trivial-changes)
+### Dev Environment
+Make sure your dev environment matches the one of the collection you want to add to. Check that collections file for further instuctions. 
 
 # How to report a bug
-### Explain security disclosures first!
-At bare minimum, include this sentence:
-> If you find a security vulnerability, do NOT open an issue. Email XXXX instead.
+### Security Vulnerabilities
+If you find a security vulnerability, do NOT open an issue. Email XXXX instead.
 
-If you don’t want to use your personal contact information, set up a “security@” email address. Larger projects might have more formal processes for disclosing security, including encrypted communication. (Disclosure: I am not a security expert.)
+### Filing a Bug Report
 
-> Any security issues should be submitted directly to security@travis-ci.org
-> In order to determine whether you are dealing with a security issue, ask yourself these two questions:
-> * Can I access something that's not mine, or something I shouldn't have access to?
-> * Can I disable something for other people?
->
-> If the answer to either of those two questions are "yes", then you're probably dealing with a security issue. Note that even if you answer "no" to both questions, you may still be dealing with a security issue, so if you're unsure, just email us at security@travis-ci.org.
+When starting a bug issue, make sure to answer these five questions:
+1. What dev environment (and the versions) are you using?
+2. What web browser are you using?
+3. What did you do?
+4. What did you expect to see?
+5. What did you see instead?
 
-[source: [Travis CI](https://github.com/travis-ci/travis-ci/blob/master/CONTRIBUTING.md)] **Need more inspiration?** [1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#security) [2] [Express.js](https://github.com/expressjs/express/blob/master/Security.md)
-
-### Tell your contributors how to file a bug report.
-You can even include a template so people can just copy-paste (again, less work for you).
-
-> When filing an issue, make sure to answer these five questions:
->
-> 1. What version of Go are you using (go version)?
-> 2. What operating system and processor architecture are you using?
-> 3. What did you do?
-> 4. What did you expect to see?
-> 5. What did you see instead?
-> General questions should go to the golang-nuts mailing list instead of the issue tracker. The gophers there will answer or ask you to file an issue if you've tripped over a bug.
-
-[source: [Go](https://github.com/golang/go/blob/master/CONTRIBUTING.md#filing-issues)] **Need more inspiration?** [1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#other-bugs ) [2] [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) (includes template)
 
 # How to suggest a feature or enhancement
 ### If you have a particular roadmap, goals, or philosophy for development, share it here.
 This information will give contributors context before they make suggestions that may not align with the project’s needs.
 
-> The Express philosophy is to provide small, robust tooling for HTTP servers, making it a great solution for single page applications, web sites, hybrids, or public HTTP APIs.
->
-> Express does not force you to use any specific ORM or template engine. With support for over 14 template engines via Consolidate.js, you can quickly craft your perfect framework.
-
-[source: [Express](https://github.com/expressjs/express#philosophy)] **Need more inspiration?** [Active Admin](https://github.com/activeadmin/activeadmin#goals)
-
-### Explain your desired process for suggesting a feature.
+### Suggesting a Collection
 If there is back-and-forth or signoff required, say so. Ask them to scope the feature, thinking through why it’s needed and how it might work.
-
-> If you find yourself wishing for a feature that doesn't exist in Elasticsearch, you are probably not alone. There are bound to be others out there with similar needs. Many of the features that Elasticsearch has today have been added because our users saw the need. Open an issue on our issues list on GitHub which describes the feature you would like to see, why you need it, and how it should work.
-
-[source: [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md#feature-requests)] **Need more inspiration?** [1] [Hoodie](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#feature-requests) [2] [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md#requesting-a-feature)
 
 # Code review process
 ### Explain how a contribution gets accepted after it’s been submitted.
 Who reviews it? Who needs to sign off before it’s accepted? When should a contributor expect to hear from you? How can contributors get commit access, if at all?
 
-> The core team looks at Pull Requests on a regular basis in a weekly triage meeting that we hold in a public Google Hangout. The hangout is announced in the weekly status updates that are sent to the puppet-dev list. Notes are posted to the Puppet Community community-triage repo and include a link to a YouTube recording of the hangout.
-> After feedback has been given we expect responses within two weeks. After two weeks we may close the pull request if it isn't showing any activity.
-
-[source: [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md#submitting-changes)] **Need more inspiration?** [1] [Meteor](https://meteor.hackpad.com/Responding-to-GitHub-Issues-SKE2u3tkSiH ) [2] [Express.js](https://github.com/expressjs/express/blob/master/Contributing.md#becoming-a-committer)
-
 # Community
-If there are other channels you use besides GitHub to discuss contributions, mention them here. You can also list the author, maintainers, and/or contributors here, or set expectations for response time.
+Justice Reskill Slack Workspace. Specific channel for the component library?
 
-> You can chat with the core team on https://gitter.im/cucumber/cucumber. We try to have office hours on Fridays.
-
-[source: [cucumber-ruby](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs)] **Need more inspiration?**
- [1] [Chef](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#-developer-office-hours) [2] [Cookiecutter](https://github.com/audreyr/cookiecutter#community)
-
-# BONUS: Code, commit message and labeling conventions
-These sections are not necessary, but can help streamline the contributions you receive.
-
-### Explain your preferred style for code, if you have any.
-
-**Need inspiration?** [1] [Requirejs](http://requirejs.org/docs/contributing.html#codestyle) [2] [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md#contributing-to-the-elasticsearch-codebase)
-
-### Explain if you use any commit message conventions.
-
-**Need inspiration?** [1] [Angular](https://github.com/angular/material/blob/master/.github/CONTRIBUTING.md#submit) [2] [Node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#step-3-commit)
-
+# Conventions
 ### Explain if you use any labeling conventions for issues.
 
-**Need inspiration?** [1] [StandardIssueLabels](https://github.com/wagenet/StandardIssueLabels#standardissuelabels) [2] [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#issue-and-pull-request-labels)
 
