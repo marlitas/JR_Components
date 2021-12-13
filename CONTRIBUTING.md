@@ -1,7 +1,5 @@
 <h1 align='center'> Contributing to the Library </h1>
 
-**Table of Contents will go here**
-
 <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" align='right' width="480" height="280">
 
 We're so excited that you're here and reading through this carefully prepared document. It helps us (and you) make sure that our component library stays accurate, diverse, and bug-free!
@@ -11,6 +9,17 @@ The contribution guidelines here help to ensure respect between the developers m
 
 
 **We thank you in advance for following these guidelines!**
+
+<p align="center">
+  <a href="#overview">Overview</a> •
+  <a href="#ground-rules">Ground Rules</a> •
+  <a href="#your-first-contribution">Your First Contribution</a> •
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#report-a-bug">Report a Bug</a> •
+  <a href="#suggesting-an-enhancment">Suggesting and enhancement</a> •
+  <a href="#code-review-process">Code Review Process</a>•
+  <a href="#community">Community</a>
+</p>
 
 ---
 # Overview :earth_africa:
@@ -95,7 +104,7 @@ Code must pass some sort of testing. Testing will vary from component to compone
 ### Dev Environment 
 Make sure your dev environment matches the one of the collection you want to add to. Check that collection's markdown file for further instuctions. 
 
-# How to report a bug :bug:
+# Report a Bug :bug:
 
 ### Security Vulnerabilities 
 If you find a security vulnerability, do NOT open an issue. Email XXXX instead.
@@ -110,7 +119,7 @@ When starting a bug issue, make sure to answer these five questions:
 5. What did you see instead?
 
 
-# How to suggest a feature or enhancement :mega:
+# Suggesting an Enhancement :mega:
 
 ### Component Library Roadmap and Goals 
 This information will give contributors context before they make suggestions that may not align with the project’s needs.
