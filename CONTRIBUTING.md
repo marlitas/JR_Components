@@ -63,7 +63,7 @@ Unsure where to begin contributing? You can start by looking through these begin
 ### :round_pushpin: [Beginner issues](https://github.com/Justice-Reskill/JR-Component-Library/labels/good%20first%20issue) - issues which should only require a few lines of code, and a test or two.
    Beginner issues can involve fixing a bug in a component, creating a small component, or adding in documentation. If you get stuck anywhere, comment on the issues and someone should hopefully be able to help out. 
    
-### :handshake: [Help wanted issues]() - issues which should be a bit more involved than beginner issues. 
+### :handshake: [Help wanted issues](https://github.com/Justice-Reskill/JR-Component-Library/labels/help%20wanted) - issues which should be a bit more involved than beginner issues. 
    Help wanted issues can be a bit more complex than beginner issues, but they allow you to pair with the other developer who is working on this issue. Don't worry you won't be taking the lead here, but these issues can be a good transition point to work on something bigger by yourself. 
 
 If you're still concerned about contributing, here are a couple of resources to help:
