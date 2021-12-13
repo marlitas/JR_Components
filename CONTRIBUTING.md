@@ -10,18 +10,19 @@ The contribution guidelines here help to ensure respect between the developers m
 
 ---
 <p align="center">
-  <a href="#overview-:earth_africa:">Overview</a> •
-  <a href="#ground-rules-:guardsman:">Ground Rules</a> •
-  <a href="#your-first-contribution-:raising_hand:">Your First Contribution</a> •
-  <a href="#getting-started-:sunny:">Getting Started</a> •
-  <a href="#report-a-bug-:bug:">Report a Bug</a> •
-  <a href="#suggesting-an-enhancment-:mega:">Suggesting and enhancement</a> •
-  <a href="#code-review-process-:mag_right:">Code Review Process</a>•
-  <a href="#community-:speech_balloon:">Community</a>
+  <a href="#overview">Overview</a> •
+  <a href="#ground-rules">Ground Rules</a> •
+  <a href="#first-contribution">Your First Contribution</a> •
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#report-bug">Report a Bug</a> •
+  <a href="#suggest-enhancment">Suggesting and enhancement</a> •
+  <a href="#code-review-process">Code Review Process</a>•
+  <a href="#community">Community</a>
 </p>
 
 ---
 # Overview :earth_africa:
+<a name="overview"></a> 
 
 ### :thumbsup: Types of Contributions 
 
@@ -34,6 +35,7 @@ Please don't submit a fully functional application here. Submitted components sh
 We also request that you not submit support questions as an issue. For any support needs, visit the appropriate Slack channel in the Justice Reskill workspace.
 
 # Ground Rules :guardsman:
+<a name="ground-rules"></a>
 ### Culture 
 We aim to keep a welcoming and open environment for all those who want to be part of the Justice Reskill Component Library. The following lists out just some of the ways we can do that through our interactions. This is by no means a comprehensive list, and we encourage everyone to listen and adapt. 
 
@@ -52,6 +54,7 @@ We aim to keep a welcoming and open environment for all those who want to be par
 - Be welcoming to newcomers and encourage diverse new contributors from all backgrounds.
 
 # Your First Contribution :raising_hand:
+<a name="first-contribution"></a>
 The Component Library is a great place to try out your first contribution. There are loads of ways to add to the library, and the following info will help you navigate those options.
 
 Unsure where to begin contributing? You can start by looking through these beginner and help-wanted issues:
@@ -66,6 +69,7 @@ If you're still concerned about contributing, here are a couple of resources to 
 - [Github Tutorial](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 # Getting started :sunny:
+<a name="getting-started"></a>
 
 * Legal info? Maybe something about how this is a Library for Justice Reskill community ONLY. You have to be a student or an employee?
 
@@ -104,6 +108,7 @@ Code must pass some sort of testing. Testing will vary from component to compone
 Make sure your dev environment matches the one of the collection you want to add to. Check that collection's markdown file for further instuctions. 
 
 # Report a Bug :bug:
+<a name="report-bug"></a>
 
 ### Security Vulnerabilities 
 If you find a security vulnerability, do NOT open an issue. Email XXXX instead.
@@ -119,6 +124,7 @@ When starting a bug issue, make sure to answer these five questions:
 
 
 # Suggesting an Enhancement :mega:
+<a name="suggest-enhancment"></a>
 
 ### Component Library Roadmap and Goals 
 This information will give contributors context before they make suggestions that may not align with the project’s needs.
@@ -127,6 +133,7 @@ This information will give contributors context before they make suggestions tha
 If there is back-and-forth or signoff required, say so. Ask them to scope the feature, thinking through why it’s needed and how it might work.
 
 # Code review process :mag_right:
+<a name="code-review-process"></a>
 ### :hourglass_flowing_sand: Timeline 
 There is no set timeline for how long a review process may take. Since managing developers are also working on Justice Reskill client projects, it may take some time to receive feedback on your pull request. This is why we recommend you make each pull request as small and readable as possible. Managing developers will try their hardest to respond to your pull request with feedback or a timeline update within two weeks. 
 
@@ -138,4 +145,5 @@ Justice Reskill Developers are assigned to manage the component library as neede
 If you are a developer at Justice Reskill and would like to be assigned as a manager of the Component Library, please reach out to your team lead or engineering manager for more info.
 
 # Community :speech_balloon:
+<a name="community"></a>
 Justice Reskill Slack Workspace. Specific channel for the component library?
