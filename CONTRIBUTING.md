@@ -79,7 +79,7 @@ Currently this library is for Justice Reskill employees and students ONLY. In or
 ### Contribution Process
 The contribution process may look different for everyone dependent on the complexity of the issue assigned. No matter what the recommended steps are:
 
-1. **[Pick/Create issue]() and assign yourself**
+1. **[Pick/Create issue](https://github.com/Justice-Reskill/JR-Component-Library/issues) and assign yourself**
    - If you are creating an issue, be sure to answer the following questions: 
      - Which collection is this associated with?
      - What problem will this solve?
