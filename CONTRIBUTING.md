@@ -48,7 +48,7 @@ We aim to keep a welcoming and open environment for all those who want to be par
 
 ### Tech Responsibilites 
 - To the best of your ability ensure [cross-browser compatibility](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction) for all components submitted. Chrome, Firefox, Safari, Internet Explorer, etc..
-- Ensure that code meets all requirements on this checklist: https://gist.github.com/audreyr/4feef90445b9680475f2
+- Ensure code has proper formatting, syntax, security standards, and efficiency.
 - Create issues for any changes and enhancements that you wish to make. Discuss things transparently and get community feedback.
 - Don't add any collections to the library unless absolutely necessary.
 - Keep pull requests as small as possible. Preferably one component per pull request.
@@ -106,6 +106,7 @@ The contribution process may look different for everyone dependent on the comple
    - Pull Request templates should load in automatically, but in case it doesn't copy and paste the template from [here]().
    - Fill out the entire pull request and make sure you can check off all the boxes.
    
+   *[Checkout to-do before opening a Pull Request](https://medium.com/swlh/do-these-things-before-opening-that-pr-5ed9934e83df)*
    *[Checkout this resource on creating a Pull Request](https://www.better.dev/create-your-first-github-pull-request)*
    
 6. **Respond to feedback**
