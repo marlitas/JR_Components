@@ -60,7 +60,7 @@ We aim to keep a welcoming and open environment for all those who want to be par
 The Component Library is a great place to try out your first contribution. There are loads of ways to add to the library, and the following info will help you navigate those options.
 
 Unsure where to begin contributing? You can start by looking through these beginner and help-wanted issues:
-### :round_pushpin: [Beginner issues]() - issues which should only require a few lines of code, and a test or two.
+### :round_pushpin: [Beginner issues](https://github.com/Justice-Reskill/JR-Component-Library/labels/good%20first%20issue) - issues which should only require a few lines of code, and a test or two.
    Beginner issues can involve fixing a bug in a component, creating a small component, or adding in documentation. If you get stuck anywhere, comment on the issues and someone should hopefully be able to help out. 
    
 ### :handshake: [Help wanted issues]() - issues which should be a bit more involved than beginner issues. 
