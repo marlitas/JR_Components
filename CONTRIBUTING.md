@@ -74,7 +74,7 @@ If you're still concerned about contributing, here are a couple of resources to 
 <a name="getting-started"></a>
 # Getting started :sunny:
 
-* Legal info? Maybe something about how this is a Library for Justice Reskill community ONLY. You have to be a student or an employee?
+Currently this library is for Justice Reskill employees and students ONLY. In order to gain access to this repository ask your management or instructor. Pull Requests and Issues from outside persons will be closed.
 
 ### Contribution Process
 The contribution process may look different for everyone dependent on the complexity of the issue assigned. No matter what the recommended steps are:
