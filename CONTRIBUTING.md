@@ -6,19 +6,18 @@ We're so excited that you're here and reading through this carefully prepared do
 
 The contribution guidelines here help to ensure respect between the developers managing this library and those contributing. In the end this allows for a smoother process as the managing developers address your issues, assess changes, and help you finalize your pull requests. 
 
-
-
 **We thank you in advance for following these guidelines!**
 
+---
 <p align="center">
-  <a href="#overview">Overview</a> •
-  <a href="#ground-rules">Ground Rules</a> •
-  <a href="#your-first-contribution">Your First Contribution</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#report-a-bug">Report a Bug</a> •
-  <a href="#suggesting-an-enhancment">Suggesting and enhancement</a> •
-  <a href="#code-review-process">Code Review Process</a>•
-  <a href="#community">Community</a>
+  <a href="#overview-:earth_africa:">Overview</a> •
+  <a href="#ground-rules-:guardsman:">Ground Rules</a> •
+  <a href="#your-first-contribution-:raising_hand:">Your First Contribution</a> •
+  <a href="#getting-started-:sunny:">Getting Started</a> •
+  <a href="#report-a-bug-:bug:">Report a Bug</a> •
+  <a href="#suggesting-an-enhancment-:mega:">Suggesting and enhancement</a> •
+  <a href="#code-review-process-:mag_right:">Code Review Process</a>•
+  <a href="#community-:speech_balloon:">Community</a>
 </p>
 
 ---
