@@ -69,6 +69,7 @@ Unsure where to begin contributing? You can start by looking through these begin
 If you're still concerned about contributing, here are a couple of resources to help:
 - [Making a pull request](http://makeapullrequest.com/)
 - [Free Code Camp Github Tutorial](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [Twilio Quest (Forest of Open-Source)](https://www.twilio.com/quest)
 - [Version Control & Git Basics](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
 <a name="getting-started"></a>
@@ -155,7 +156,7 @@ Only change the development environment of a component if absolutely necessary. 
 # Report a Bug :bug:
 
 ### Security Vulnerabilities 
-If you find a security vulnerability, do NOT open an issue. Email XXXX instead.
+If you find a security vulnerability, do NOT open an issue. Slack XXXX instead.
 
 ### Filing a Bug Report 
 
@@ -170,10 +171,23 @@ When starting a bug issue, make sure to answer these five questions:
 # Suggesting an Enhancement :mega:
 
 ### Component Library Roadmap and Goals 
-This information will give contributors context before they make suggestions that may not align with the project’s needs.
+Justice Reskill has big plans for this component library. Overall we want it to be a singular resource for our developers to find approved code snippets that will help standardize client projects. In addition, this library provides an opportunity for Justice Reskill students to walk through production ready code, practice their coding skills, and connect with the wider Justice Reskill community. We ask that you keep the following goals in mind when suggesting new collections, components, or other enhancements to the library.
+
+- Increase developer efficiency, by reducing code duplication between projects
+- Standardize JR code best-practices
+- Contribute towards a smooth onboarding process
+- Provide an opportunity for students to learn and contribute
+- Avoid collaborative obstacles with 'single source of truth'
 
 ### Suggesting a Collection 
-If there is back-and-forth or signoff required, say so. Ask them to scope the feature, thinking through why it’s needed and how it might work.
+If you have combed through all the collections, and believe there is a missing category for components, you can open an issue to propose this new collection. Make sure that your issue answers the following questions:
+
+- What problem(s) will this collection solve?
+- What are the negative impacts of not having this collection?
+- How would you define this collection? 
+- What are examples of components that may live in this collection?
+
+When submitting your proposal through an issue, be sure to label the issue with the 'collection' tag. A managing developer will then look through your proposal and provide feedback or questions as described in the code review process. 
 
 <a name="code-review-process"></a>
 # Code review process :mag_right:
@@ -191,4 +205,8 @@ If you are a developer at Justice Reskill and would like to be assigned as a man
 <a name="community"></a>
 # Community :speech_balloon:
 
-Justice Reskill Slack Workspace. Specific channel for the component library?
+Learn more about becoming a Justice Reskill student.** 
+
+Are you a business looking for computer program solutions? Visit our JR Launch site to learn more about becoming a client. 
+
+Students and employees can find component library threads and topics in the #Component-Library channel in the Justice Reskill slack workspace. For access to the workspace, ask your instructor or manager. The #Component-Library channel is the perfect place to ask for help if you get stuck, get answers to questions, throw around ideas, or find a collaborator. 
