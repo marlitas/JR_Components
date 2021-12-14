@@ -103,7 +103,7 @@ The contribution process may look different for everyone dependent on the comple
    *[Checkout this resource on connecting commits to an issue](https://gitdailies.com/articles/link-github-commit-to-issue/)*
    
 5. **Create a Pull Request**
-   - Before you create a pull request make sure you're passing the [testing](#testing) and [documentation](#documentation) requirements outlined below!
+   - Before you create a pull request make sure you're passing the [documentation](#documentation) and [testing](#testing) requirements outlined below!
    - Pull Request templates should load in automatically, but in case it doesn't copy and paste the template from [here]().
    - Fill out the entire pull request and make sure you can check off all the boxes.
    
@@ -131,6 +131,11 @@ The addition of any new component requires adequate documentation. The bare mini
  - Providing comments for dependencies within code
 
 The more documentation you provide, the easier it will be for others to use your component. When writing documentation think about legibility, grammar, and accessibility. Terminology that may be specific to a particular language may not be helpful to another developer learning that language. Allow documentation to be an opportunity to break down your code, and understand it even further. How would you describe what you did to someone with little/to no prior experience?
+
+Documentation Resources:
+- [How to Write Good Documentation](https://www.freecodecamp.org/news/how-to-write-good-documentation/)
+- [Comments in Code](https://www.freecodecamp.org/news/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83/)
+- [6 Pillars of Good Documentation](https://towardsdatascience.com/documentation-101-the-6-pillars-of-a-good-documentation-fdf564ad8eba)
 
 <a name="testing"></a>
 ### :white_check_mark: Testing Requirements 
