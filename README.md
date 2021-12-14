@@ -5,9 +5,7 @@
 The Justice Reskill compenent library is a central source of information for commonly used components in JR projects. The code snippets held within each collection are intented to be used as a foundation for a wide range of features, and create a universal starting point for all JR developers and students. Most code snippets require little customization to work 'out of the box'. 
 
 ### How to Use
-Components have been sorted into collections dependent on their most relatable tag. Clicking on a specific collection will take you to the readme for that collection where you can find more information about the components held within, as well as examples of each component's final product. 
-
-### Tools Used
+Components are sorted into collections by relevancy. Clicking on a specific collection will take you to the collection.md where you can find more information about the components held within, as well as examples of each component's final product. 
 
 ### Collections
 - [Accordians](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Accordians/accordians.md)
@@ -26,7 +24,7 @@ Components have been sorted into collections dependent on their most relatable t
 - [Twilio Expanded Documentation](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/Twilio-Expanded-Documentation/twilio-expanded-docs.md)
 
 ### How to Contribute
-The relevance of this library is only kept by up-to-date contributions by the Justice Reskill team. Have a component you recently built for a project? Looking to learn about a new technology or feature? Contributing to the Component Library is a great way to develop skills and ensure consistency across JR projects, saving us all time and effort in the long run. It's also a great way to learn from each other and find common ground to enhance team collaboration. 
+The relevance of this library is only kept by frequent contributions from the Justice Reskill community. Contributing to the Component Library is a great way to develop skills and ensure consistency across JR projects; saving us all time and effort in the long run. It's also a great way to learn from each other and find common ground to enhance team collaboration. 
 
 Read through the [contribution guide](https://github.com/Justice-Reskill/JR-Component-Library/blob/main/CONTRIBUTING.md) for code expectations, FAQs, and other requirements. 
 
