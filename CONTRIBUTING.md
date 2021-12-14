@@ -4,7 +4,7 @@
 
 We're so excited that you're here and reading through this carefully prepared document. It helps us (and you) make sure that our component library stays accurate, diverse, and bug-free!
 
-The contribution guidelines here help to ensure respect between the developers managing this library and those contributing. In the end this allows for a smoother process as the managing developers address your issues, assess changes, and help you finalize your pull requests. 
+The contribution guidelines help to ensure respect between the developers managing this library and those contributing. In the end this allows for a smoother process as the managing developers address your issues, assess changes, and help you finalize your pull requests. 
 
 **We thank you in advance for following these guidelines!**
 
@@ -26,13 +26,15 @@ The contribution guidelines here help to ensure respect between the developers m
 
 ### :thumbsup: Types of Contributions 
 
-The Justice Reskill Component Library is a digital space where our community, whether student or employee, can come together and bond through code. The library is only as robust as we make it, so we depend on everyone to keep this library stocked and up-to-date. That's where you come in! There are many ways to contribute, from improving the documentation, submitting bug reports and feature requests or writing code to submit your very own component to the library.
+The Justice Reskill Component Library is a digital space where our community, whether student or employee, can come together and bond through code. The library is only as robust as we make it, so we depend on everyone to keep this library stocked and up-to-date. That's where you come in! 
+
+There are many ways to contribute, from improving the documentation, submitting bug reports and feature requests or writing code to submit your very own component to the library.
 
 ### :pray: Please Don't 
 
-Please don't submit a fully functional application here. Submitted components should be easy to read through and throw into an existing code base. A majority of components will only require one file to implement, so think small. A component should pass testing standards, but may not be production ready. The library is here to provide a platform for developers who want to take your code into production for their specific use case, therefore it needs to be easy to customize and understand.
+Please don't submit a fully functional application. Submitted components should be easy to read through, customize, and throw into an existing code base. A majority of components will only require one file to implement, so think small.
 
-We also request that you not submit support questions as an issue. For any support needs, visit the appropriate Slack channel in the Justice Reskill workspace.
+We also request that you not submit support questions as an issue. For any support needs, visit the #Component-Library Slack channel in the Justice Reskill workspace.
 
 <a name="ground-rules"></a>
 # Ground Rules :guardsman:
@@ -59,9 +61,9 @@ We aim to keep a welcoming and open environment for all those who want to be par
 
 The Component Library is a great place to try out your first contribution. There are loads of ways to add to the library, and the following info will help you navigate those options.
 
-Unsure where to begin contributing? You can start by looking through these beginner and help-wanted issues:
+Unsure where to begin contributing? You can start by looking through beginner and help-wanted issues:
 ### :round_pushpin: [Beginner issues](https://github.com/Justice-Reskill/JR-Component-Library/labels/good%20first%20issue) - issues which should only require a few lines of code, and a test or two.
-   Beginner issues can involve fixing a bug in a component, creating a small component, or adding in documentation. If you get stuck anywhere, comment on the issues and someone should hopefully be able to help out. 
+   Beginner issues can involve fixing a bug, creating a small component, or adding documentation. If you get stuck anywhere, comment on the issue and someone should be able to help out. 
    
 ### :handshake: [Help wanted issues](https://github.com/Justice-Reskill/JR-Component-Library/labels/help%20wanted) - issues which should be a bit more involved than beginner issues. 
    Help wanted issues can be a bit more complex than beginner issues, but they allow you to pair with the other developer who is working on this issue. Don't worry you won't be taking the lead here, but these issues can be a good transition point to work on something bigger by yourself. 
@@ -75,10 +77,10 @@ If you're still concerned about contributing, here are a couple of resources to 
 <a name="getting-started"></a>
 # Getting started :sunny:
 
-Currently this library is for Justice Reskill employees and students ONLY. In order to gain access to this repository ask your management or instructor. Pull Requests and Issues from outside persons will be closed.
+Currently this library is for Justice Reskill employees and students ONLY. In order to gain access to this repository ask your manager or instructor. Pull Requests and Issues from outside persons will be closed.
 
 ### Contribution Process
-The contribution process may look different for everyone dependent on the complexity of the issue assigned. No matter what the recommended steps are:
+The contribution process may look different for everyone dependent on the complexity of the issue assigned. No matter what, the recommended steps are:
 
 1. **[Pick/Create issue](https://github.com/Justice-Reskill/JR-Component-Library/issues) and assign yourself**
    - If you are creating an issue, be sure to answer the following questions: 
@@ -98,16 +100,17 @@ The contribution process may look different for everyone dependent on the comple
 4. **Comment or push code once a month**
    - If no updates have been posted to the issue through code or comments we will remove you off the issue to open it up for others.
    - Pushing code up and asking for feedback before you submit a pull request is always an option. 
-   - If at any point you would like help on your issue, add the "help wanted".
+   - If at any point you would like help on your issue, add the "help wanted" label.
 
    *[Checkout this resource on connecting commits to an issue](https://gitdailies.com/articles/link-github-commit-to-issue/)*
    
 5. **Create a Pull Request**
    - Before you create a pull request make sure you're passing the [documentation](#documentation) and [testing](#testing) requirements outlined below!
-   - Pull Request templates should load in automatically, but in case it doesn't copy and paste the template from [here]().
+   - Pull Request templates should load in automatically, but in case it doesn't, copy and paste the template from [here]().
    - Fill out the entire pull request and make sure you can check off all the boxes.
    
    *[Checkout to-do before opening a Pull Request](https://medium.com/swlh/do-these-things-before-opening-that-pr-5ed9934e83df)*
+   
    *[Checkout this resource on creating a Pull Request](https://www.better.dev/create-your-first-github-pull-request)*
    
 6. **Respond to feedback**
@@ -130,7 +133,7 @@ The addition of any new component requires adequate documentation. The bare mini
  - Providing comments for code legibility in component code files
  - Providing comments for dependencies within code
 
-The more documentation you provide, the easier it will be for others to use your component. When writing documentation think about legibility, grammar, and accessibility. Terminology that may be specific to a particular language may not be helpful to another developer learning that language. Allow documentation to be an opportunity to break down your code, and understand it even further. How would you describe what you did to someone with little/to no prior experience?
+The more succinct documentation you provide, the easier it will be for others to use your component. When writing documentation think about legibility, grammar, and accessibility. Terminology that may be specific to a particular language may not be helpful to another developer learning that language. Allow documentation to be an opportunity to break down your code, and understand it even further.
 
 Documentation Resources:
 - [How to Write Good Documentation](https://www.freecodecamp.org/news/how-to-write-good-documentation/)
@@ -212,8 +215,10 @@ If you are a developer at Justice Reskill and would like to be assigned as a man
 <a name="community"></a>
 # Community :speech_balloon:
 
-Learn more about becoming a Justice Reskill student.** 
+[Learn more about becoming a Justice Reskill student.](https://justicereskill.com/student-programs/)
 
-Are you a business looking for computer program solutions? Visit our JR Launch site to learn more about becoming a client. 
+Are you a business looking for computer program solutions? Visit our [JR Launch site](https://justicereskill.com/jr-launch/) to learn more about becoming a client. 
 
-Students and employees can find component library threads and topics in the #Component-Library channel in the Justice Reskill slack workspace. For access to the workspace, ask your instructor or manager. The #Component-Library channel is the perfect place to ask for help if you get stuck, get answers to questions, throw around ideas, or find a collaborator. 
+Students and employees can find component library threads and topics in the #Component-Library channel in the Justice Reskill slack workspace. For access to the workspace, ask your instructor or manager. 
+
+The #Component-Library channel is the perfect place to ask for help if you get stuck, get answers to questions, throw around ideas, or find a collaborator. 
