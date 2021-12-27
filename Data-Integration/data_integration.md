@@ -16,7 +16,7 @@ Backend environments at Justice Reskill will generally be built use Express/Node
 
 ## Components
 
-#### [Create Document in MongoDB Collection](link_to_the_component_code_snippet)
+#### [Create Document in MongoDB Collection](https://github.com/Justice-Reskill/JR-Component-Library/blob/create-snippet/Data-Integration/create-snippet.js)
 
 <img src="https://media.giphy.com/media/e1bS77QKMCIgFXaZKV/giphy.gif" align="right" width="480" height="280">
 
