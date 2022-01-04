@@ -20,18 +20,18 @@ Backend environments at Justice Reskill will generally be built use Express/Node
 
 <img src="https://media.giphy.com/media/e1bS77QKMCIgFXaZKV/giphy.gif" align="right" width="480" height="280">
 
-> The file linked to here contains the code snippet needed to create a new document in a MongoDB collection. Link to full repository to check Model schema, testing, and routing, can be found [here](https://github.com/marlitas/CRUD). The code in this snippet uses a basic user model to create mock data. Comments in snippet will help guide developer on where to fill in their own information to integrate in application. 
+The file linked to here contains the code snippet needed to create a new document in a MongoDB collection. Link to full repository to check Model schema, testing, and routing, can be found [here](https://github.com/marlitas/CRUD). The code in this snippet uses a basic user model to create mock data. Comments in snippet will help guide developer on where to fill in their own information to integrate in application. 
  
- > Common use cases for this component includes:
- > - User Registration
- > - Adding products to inventory
- > - Blog post
+ Common use cases for this component includes:
+ - User Registration
+ - Adding products to inventory
+ - Blog post
 
- > Dependencies:
-> | Tool | Documentation |
-> |-----|-----|
-> | Mongoose | [Docs](https://mongoosejs.com/) |
-> | express.Router| [Docs](https://expressjs.com/en/guide/routing.html) |
+Dependencies:
+| Tool | Documentation |
+|-----|-----|
+| Mongoose | [Docs](https://mongoosejs.com/) |
+| express.Router| [Docs](https://expressjs.com/en/guide/routing.html) |
 
 ## Resources
 | Design | Docs | Tutorials |
